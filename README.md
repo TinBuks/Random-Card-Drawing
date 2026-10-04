@@ -1,0 +1,1 @@
+This project will ask the user how many cards from a standard 52 pack they wish to draw, then draws that many cards, included with some ASCII art. This project was meant to show off Tuples, Sets, Lists, and operations that can be used to add and remove certain items, such as append() and pop().
